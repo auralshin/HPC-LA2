@@ -1,1 +1,3 @@
 # HPC-LA2
+
+There is a parking lot with 3 floors having space for 50 cars each. A display is maintained at the entrance which has information about the number of slots vacant in each floor and also the total number of vacant slots in the lot. An attendant is assigned to each floor. Every five minutes he sends a message to update the display with the current number of free slots in the floor. This should also update the number of free slots available in the parking lot. Assume that a random number of cars are parked in each floor at the beginning of the simulation. Simulate the system for a duration of fifteen minutes. Also, assume that every five minutes a random number of vehicles enter and exit the parking lot.
